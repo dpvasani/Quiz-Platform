@@ -30,7 +30,7 @@ Run "npm install" in the terminal to install all the packages needed for this pr
 ||||
 |:----------------------------------------:|:-----------------------------------------:|:-----------------------------------------: |
 
-![Screenshot (49)](https://github.com/dpvasani/QuizPlatform/blob/main/a.png)
+![Screenshot (49)](https://github.com/dpvasani/QuizPlatform/blob/de8504bd1167d5513f09513161eb36889b9180ad/a.png)
 ![Screenshot (48)](https://user-images.githubusercontent.com/81317587/206523557-49023504-f72f-4c1c-866b-eb1e5613e5a5.png)
 ![Screenshot (46)](https://user-images.githubusercontent.com/81317587/206523662-29e23431-5f82-4a23-9737-366aefb06101.png)
 
