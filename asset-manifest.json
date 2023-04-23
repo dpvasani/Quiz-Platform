@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/QuizPlatform/static/css/main.66fea750.css",
+    "main.js": "/QuizPlatform/static/js/main.e8a9d0f4.js",
+    "static/media/myquiz.png": "/QuizPlatform/static/media/myquiz.ce6d463b3ebcd36201e4.png",
+    "static/media/play.png": "/QuizPlatform/static/media/play.536f118573084facd4c2.png",
+    "static/media/cretenew.png": "/QuizPlatform/static/media/cretenew.11368aa63323d8803228.png",
+    "static/media/paper.jpg": "/QuizPlatform/static/media/paper.369718e958792b5666df.jpg",
+    "static/media/404.png": "/QuizPlatform/static/media/404.cb1fa67435a8a526e2f8.png",
+    "static/media/bg.png": "/QuizPlatform/static/media/bg.7298a2e097b42d4c5ca4.png",
+    "static/media/card.png": "/QuizPlatform/static/media/card.9387ea047837a17a8039.png",
+    "static/media/sound1.wav": "/QuizPlatform/static/media/sound1.f3eb56dcfb326192df24.wav",
+    "static/media/option.mp3": "/QuizPlatform/static/media/option.8029878404088fd91de7.mp3",
+    "static/media/click.mp3": "/QuizPlatform/static/media/click.b68f4f0a2c957c4bc0c0.mp3",
+    "index.html": "/QuizPlatform/index.html",
+    "main.66fea750.css.map": "/QuizPlatform/static/css/main.66fea750.css.map",
+    "main.e8a9d0f4.js.map": "/QuizPlatform/static/js/main.e8a9d0f4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.66fea750.css",
+    "static/js/main.e8a9d0f4.js"
+  ]
+}
