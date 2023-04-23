@@ -1,0 +1,29 @@
+.mainContainer{
+    display: flex;
+
+    background-position: center;
+    flex-direction: column;
+    padding: 30px;
+    margin: 50px;
+       border-radius: 10px;
+    box-shadow: 2px 2px 4px rgba(0,0,0,0.7);
+    background-image: -webkit-linear-gradient(62deg, #ffe8e8 0%, #cdacff 100%);
+    background-image: -moz-linear-gradient(62deg, #ffe8e8 0%, #cdacff 100%);
+    background-image: -o-linear-gradient(62deg, #ffe8e8 0%, #cdacff 100%);
+    background-image: linear-gradient(62deg, #ffe8e8 0%, #cdacff 100%);
+    
+    
+}
+
+
+.quiz-description{
+    margin-bottom: 10px;
+}
+.input-name{
+    margin-bottom: 20px;
+}
+@media screen and (max-width:750px) {
+    .mainContainer{
+        margin:10px;
+    }
+}

@@ -1,0 +1,87 @@
+.head{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.table{
+    display: flex;
+    justify-content: center;
+    border: 1px solid black;
+}
+
+.tre{
+    display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin: 20px 0;
+  width: 95vw;
+ 
+}
+.ti{
+    text-align: right;
+    overflow-Wrap:"break-word";
+  
+    width:10vw
+}
+
+.deleteModal{
+    border:none;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 60vw;
+    padding: 10px;
+    margin-top: 10px;
+    background-color: rgb(215, 215, 215);
+
+}
+.deleteouter{
+display: flex;
+justify-content: center;
+
+}
+.delbtn{
+    display: flex;
+    justify-content: flex-end;
+    width: 60vw;
+}
+
+@media screen and (max-width:750px) {
+    .tableHead{
+        display: none;
+    }
+    .table{
+        border:none
+    }
+    .ti{
+        text-align: left;
+        
+        width:15vw;
+    
+           }
+         
+}
+.switch{
+    padding: 10px 5px;
+    font-size: 15px;
+    text-align: center;
+  width:90px;
+  cursor: pointer;
+  outline: none;
+  color: #fff;
+  border: none;
+  border-radius: 10px;
+  box-shadow: 0 5px #999;
+}
+.switch:active {
+  
+    box-shadow: 0 2px #666;
+    transform: translateY(2px);
+  }
+
+  .tableHead{
+    border-bottom: 1px solid grey;
+    padding-bottom: 10px;
+  }
