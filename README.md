@@ -3,10 +3,9 @@ A Quiz Platform application 📱 built using react ⚛️ where you can create y
 -------------------
 
 ## ❤️ Deployed link
-## Scan QR Code
- ![frame](https://user-images.githubusercontent.com/81317587/206521965-6f4e0985-bc09-4ad1-8c01-c9e5fac2d2e5.png)
 
-or click here: https://almabetterquiz.netlify.app/
+or click here: http://dpvasani56.me/QuizPlatform/
+or: https://quiz-platform-ivory.vercel.app/
 ---------------
 
 ## ⚙️ Features
