@@ -5,7 +5,7 @@ A Quiz Platform application 📱 built using react ⚛️ where you can create y
 ## ❤️ Deployed link
 
 or click here: http://dpvasani56.me/QuizPlatform/
-##or: https://quiz-platform-ivory.vercel.app/
+   or: https://quiz-platform-ivory.vercel.app/
 ---------------
 
 ## ⚙️ Features
